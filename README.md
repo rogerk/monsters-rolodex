@@ -1,1 +1,1 @@
-Sample React App
+Sample React Application
